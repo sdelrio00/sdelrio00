@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hello! 👋
+---
+I'm Steven Del Rio. I am a QA Engineer living in the suburbs of Chicago, IL. 
 
-<!--
-**sdelrio00/sdelrio00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&link=http://right)](https://www.linkedin.com/in/sdr88/)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&link=http://right&logoColor=ffffff)](mailto:delrio.steven@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- QA Engineer with 10+ years of experience 💻
+- Proud father 👨‍👧
+- Loves gaming :video_game:
+- Enjoys watching Chicago sports :football: :baseball: :basketball:
+
+
+##### Tools And Technologies: 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&link=http://right&logoColor=000000)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&link=http://right&logoColor=ffffff)
+![Github Actions](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&link=http://right&logoColor=ffffff)
