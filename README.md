@@ -2,7 +2,7 @@
 ---
 I'm Steven Del Rio. I am a QA Engineer living in the suburbs of Chicago, IL. 
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&link=http://right)](https://www.linkedin.com/in/sdr88/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&link=http://right)](https://www.linkedin.com/in/sdelrio00/)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&link=http://right&logoColor=ffffff)](mailto:delrio.steven@gmail.com)
 
 
